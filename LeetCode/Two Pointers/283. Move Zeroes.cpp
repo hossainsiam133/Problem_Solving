@@ -6,7 +6,7 @@ typedef long long ll;
 typedef vector<int> vi;
 typedef pair<int, int> pii;
 #define nline "\n"
-#define Yes cout << "YES\n"
+#define Ye s cout << "YES\n"
 #define No cout << "NO\n"
 #define all(x) (x).begin(), (x).end()
 #define sz(x) (int)(x).size()
