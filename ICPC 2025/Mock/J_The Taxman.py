@@ -7,6 +7,7 @@ for _ in range(test):
     for _ in range(300):
     # while(l <= r):
         mid = (l + r) * 0.5
+        mid-=12500
         tex = 0
         if mid > 100000:
             red = (mid - 100000) / 2
